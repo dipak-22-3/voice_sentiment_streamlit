@@ -1,0 +1,9 @@
+streamlit
+streamlit-webrtc
+speechrecognition
+librosa
+numpy
+textblob
+matplotlib
+soundfile
+av
