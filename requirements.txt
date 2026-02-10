@@ -7,3 +7,9 @@ textblob
 matplotlib
 soundfile
 av
+
+streamlit
+textblob
+SpeechRecognition
+streamlit-mic-recorder
+plotly
