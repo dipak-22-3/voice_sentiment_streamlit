@@ -13,3 +13,4 @@ textblob
 SpeechRecognition
 streamlit-mic-recorder
 plotly
+pydub
